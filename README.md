@@ -13,7 +13,7 @@ Currently focused on building intelligent tools that merge **LLMs**, **cybersecu
 
 ## 🧠 Skills
 
-- Programming: `Python`, `HTML`, `Bash`
+- Programming: `Python`, `HTML`, `Bash`, `SQL`
 - Tools & Frameworks: `Keras`, `TensorFlow`, `FastAPI`, `Gradio`
 - Cybersecurity: `SIEM`, `IDS`, `chronicle`, `Splunk`, `tcpdump`, `wireshark`, `Risk Assessment/Analysis`, `Incident Response`, `SOC`, `Threat Detection`
 - AI/ML: `Generative AI`, `Gemini API`, `Prompt Engineering`, `LLMs`, `MLOps`, `Computer Vision`
