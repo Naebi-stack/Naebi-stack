@@ -16,7 +16,7 @@ Currently focused on building intelligent tools that merge **LLMs**, **cybersecu
 - Programming: `Python`, `HTML`, `Bash`
 - Tools & Frameworks: `Keras`, `TensorFlow`, `FastAPI`, `Gradio`
 - Cybersecurity: `SIEM`, `IDS`, `chronicle`, `Splunk`, `tcpdump`, `wireshark`, `Risk Assessment/Analysis`, `Incident Response`, `SOC`, `Threat Detection`
-- AI/ML: `Generative AI`, `Gemini API`, `Prompt Engineering`, `LLMs`, `Computer Vision`
+- AI/ML: `Generative AI`, `Gemini API`, `Prompt Engineering`, `LLMs`, `MLOps`, `Computer Vision`
 - DevOps & Tools: `Git`, `VS Code`, `Hugging Face`, `Google AI Studio`, `Kaggle`, `Colab`, `Jupyter`
 
 ---
@@ -94,8 +94,9 @@ Uses generative AI workflows for intelligent feature extraction and classificati
 
 - 🌐 Website: *Coming Soon*
 - 📧 Email: naebisede@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/naebisede](https://www.linkedin.com/in/naebisede)
-- 🐦 Twitter: [@naebisede](https://twitter.com/naebisede)
+- 💼 LinkedIn: https://www.linkedin.com/in/naebisede
+- 🐦 Twitter: https://twitter.com/naebisede
+- 🚀 Medium: https://medium.com/@sede.willford
 
 ---
 
