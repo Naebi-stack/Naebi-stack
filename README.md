@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Cybersecurity enthusiast, currently looking for an entry-level **SOC1 Analyst** or **Cybersecurity Analyst** role, and an upcoming AI developer with a basic background in **data analysis**, **generative AI**, `SIEM`, `IDS`, `Wireshark`, `Chronicle`, `tcpdump`, `Splunk`, `VirusTotal`, `Risk Management/Analysis`, and **incident response**.  
+I'm a Cybersecurity enthusiast, currently looking for an entry-level **SOC1 Analyst** or **Cybersecurity Analyst** roles, and an upcoming AI developer with a basic background in **data analysis**, **generative AI**, `SIEM`, `IDS`, `Wireshark`, `Chronicle`, `tcpdump`, `Splunk`, `VirusTotal`, `Risk Management/Analysis`, and **incident response**.  
 Currently focused on building intelligent tools that merge **LLMs**, **cybersecurity awareness**, and **deep learning**.  
 
 🔭 Working on: `CySec-EmbedClassify` – a Keras-powered risk & vulnerability classifier  
