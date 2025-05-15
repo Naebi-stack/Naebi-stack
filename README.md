@@ -17,7 +17,7 @@ Currently focused on building intelligent tools that merge **LLMs**, **cybersecu
 - Tools & Frameworks: `Keras`, `TensorFlow`, `FastAPI`, `Gradio`
 - Cybersecurity: `SIEM`, `IDS`, `chronicle`, `Splunk`, `tcpdump`, `wireshark`, `Risk Assessment/Analysis`, `Incident Response`, `SOC`, `Threat Detection`
 - AI/ML: `Generative AI`, `Gemini API`, `Prompt Engineering`, `LLMs`, `Computer Vision`
-- DevOps & Tools: `Git`, `VS Code`, `Hugging Face`, `Google AI Studio`, `Kaggle`
+- DevOps & Tools: `Git`, `VS Code`, `Hugging Face`, `Google AI Studio`, `Kaggle`, `Colab`, `Jupyter`
 
 ---
 
@@ -26,6 +26,7 @@ Currently focused on building intelligent tools that merge **LLMs**, **cybersecu
 - ✅ **Google Cybersecurity Certificate** (Dec 2024)
 - ✅ **ISC2 Certified in Cybersecurity (CC)** (Jan 2025)
 - ✅ **Google AI Essentials Certificate** (2024)
+- ✅ **CompIA Security +** *(in progress)*
 - ✅ **OpenCV University – Computer Vision and Deep Learning** *(in progress)*
 - ✅ **Forage Job Simulations:**
   - Datacom Cybersecurity
