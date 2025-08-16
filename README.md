@@ -36,7 +36,7 @@ Currently focused on building intelligent tools that merge **LLMs**, **cybersecu
 
 ## 📂 Featured Projects
 
-### 🔐 [CySec-EmbedClassify](https://github.com/yourusername/CySec-EmbedClassify)
+### 🔐 [CySec-EmbedClassify](https://colab.research.google.com/drive/1dC85izKb9yjpi_4HxPV2BQKOhyuVByrO?usp=sharing)
 A Keras-powered classifier that uses Google Gemini embeddings to analyze cybersecurity-related text and categorize it into:
 - **Risk Types**
 - **Vulnerability Types**
