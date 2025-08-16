@@ -94,7 +94,7 @@ Uses generative AI workflows for intelligent feature extraction and classificati
 ## 📫 Contact Me
 
 - 🌐 Website: *Coming Soon*
-- 📧 Email: naebisede@gmail.com
+- 📧 Email: sede.willford@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/naebisede
 - 🐦 Twitter: https://twitter.com/naebisede
 - 🚀 Medium: https://medium.com/@sede.willford
