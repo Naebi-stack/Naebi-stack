@@ -41,6 +41,7 @@ A Keras-powered classifier that uses Google Gemini embeddings to analyze cyberse
 - **Risk Types**
 - **Vulnerability Types**
 - **Assessment Focus**
+- **Incident Response**
 
 > `Python` `Keras` `Gemini Embeddings` `Cybersecurity NLP`
 
